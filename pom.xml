@@ -23,6 +23,12 @@
         <version>5.7.0-M1</version>
         <scope>test</scope>
     </dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.11</version>
+			<scope>test</scope>
+		</dependency>
   </dependencies>
 
   <build>
@@ -36,5 +42,5 @@
       </plugins>
     </pluginManagement>
   </build>
-  
+
 </project>
