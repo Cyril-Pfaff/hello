@@ -9,7 +9,7 @@ import java.lang.String;
 public class App {
     public static void main(String[] args)
  {
-        System.out.println("Hello Le monde - v7!");
+        System.out.println("Hello Le monde - v8!");
 
         App.main2(args);
         App.main2(args);
@@ -21,7 +21,7 @@ public class App {
     }
     public static void main2(String[] args)
  {
-        System.out.println("Hello Le monde - v7!");
+        System.out.println("Hello Le monde - v8!");
         return;
     }
 }
