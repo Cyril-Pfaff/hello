@@ -8,15 +8,12 @@ import java.lang.String;
  */
 public class App {
     public static void main(String[] args)
- {
-        System.out.println("Hello Le monde");
-
+    {
         App.main2(args);
-
         return;
     }
     public static void main2(String[] args)
- {
+    {
         System.out.println("Hello Le monde");
         return;
     }
