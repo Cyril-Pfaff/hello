@@ -14,7 +14,7 @@ public class App {
     }
     public static void main2(String[] args)
     {
-        System.out.println("Hello Le monde");
+        System.out.println("Hello World");
         return;
     }
 }
