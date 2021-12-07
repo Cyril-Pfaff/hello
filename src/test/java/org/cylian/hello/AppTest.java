@@ -33,12 +33,12 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue4()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
 
     @Test
     public void shouldAnswerWithTrue5()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
 }
