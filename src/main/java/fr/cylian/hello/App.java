@@ -9,12 +9,7 @@ import java.lang.String;
 public class App {
     public static void main(String[] args)
     {
-        App.main2(args);
-        return;
-    }
-    public static void main2(String[] args)
-    {
-        System.out.println("Hello World -v2");
+        System.out.println("Hello World - v3");
         return;
     }
 }
